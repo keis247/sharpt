@@ -1,5 +1,5 @@
 # sharpt
-Show ARP table interface eth0
+Show ARP table on console every one minuteinterface eth0
 
 Install
 1. Copy ShowARPtable.sh to /root/
